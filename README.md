@@ -1,3 +1,7 @@
+<div align="center">
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+</div>
+
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
