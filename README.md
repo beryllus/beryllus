@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 08 June 2026 - To: 15 June 2026
 
 Total Time: 0 secs
