@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Total Time: 27 mins
+Total Time: 2 hrs 32 mins
 
-Markdown   16 mins               ███████████████░░░░░░░░░░   59.45 %
-YAML       9 mins                ████████▓░░░░░░░░░░░░░░░░   35.23 %
-HTML       1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+CSS        1 hr 11 mins          ███████████▓░░░░░░░░░░░░░   47.09 %
+HTML       45 mins               ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+Markdown   25 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+YAML       9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
