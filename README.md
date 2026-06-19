@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Fedora](https://img.shields.io/badge/OS-Fedora-51a2da?style=flat-square&logo=fedora
+[![Fedora](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora
 )](https://fedoraproject.org/kde/)
 [![KDE Plasma](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
 )](https://kde.org/plasma-desktop/)
