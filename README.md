@@ -2,10 +2,10 @@
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora
 )](https://fedoraproject.org/kde/)
-[![KDE Plasma](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
+[![KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
 )](https://kde.org/plasma-desktop/)
-[![Visual Studio Code](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square
-)](https://code.visualstudio.com/)
+[![VSCodium](https://img.shields.io/badge/IDE-VSCodium-blue?style=flat-square&logo=vscodium
+)](https://vscodium.com/)
 [![Firefox](https://img.shields.io/badge/Browser-Firefox-FF6611?style=flat-square&logo=firefox
 )](https://www.firefox.com/en-US/)
 
