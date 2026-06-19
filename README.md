@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1481121512747696189)](https://discord.com/users/1481121512747696189)
+
 [![Fedora](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora
 )](https://fedoraproject.org/kde/)
 [![KDE Plasma](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
