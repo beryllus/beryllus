@@ -1,5 +1,7 @@
 <div align="center">
 
+![Moe Count](https://count.getloli.com/@beryllus?name=beryllus&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 [![Fedora](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora
 )](https://fedoraproject.org/kde/)
 [![KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
@@ -15,18 +17,3 @@
 
 
 </div>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 June 2026 - To: 19 June 2026
-
-Total Time: 3 hrs 1 min
-
-CSS        1 hr 32 mins          ████████████▓░░░░░░░░░░░░   50.78 %
-HTML       52 mins               ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Markdown   27 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-YAML       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-```
-
-<!--END_SECTION:waka-->
