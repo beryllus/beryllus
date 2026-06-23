@@ -1,7 +1,5 @@
 <div align="center">
 
-![Moe Count](https://count.getloli.com/@beryllus?name=beryllus&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
 [![Fedora](https://img.shields.io/badge/OS-Fedora-blue?style=flat-square&logo=fedora
 )](https://fedoraproject.org/kde/)
 [![KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=kde
