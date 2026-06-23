@@ -13,7 +13,6 @@
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-beryllus-blue?style=flat-square&logo=mastodon)](https://sakurajima.moe/@beryllus)
 [![Matrix](https://img.shields.io/badge/Matrix-beryllus%3Acatgirl.cloud-blue?style=flat-square&logo=matrix)](https://matrix.org/)
-[![The StoryGraph](https://img.shields.io/badge/The_StoryGraph-beryllus-blue?style=flat-square&logo=thestorygraph)](https://app.thestorygraph.com/profile/beryllus)
 
 
 </div>
